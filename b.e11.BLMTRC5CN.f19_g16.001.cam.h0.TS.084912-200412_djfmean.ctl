@@ -1,0 +1,8 @@
+DSET b.e11.BLMTRC5CN.f19_g16.001.cam.h0.TS.084912-200412_djfmean.nc
+OPTIONS 365_day_calendar
+XDEF lon
+YDEF lat
+TDEF time 1156 linear 1dec0849 1yr
+VARS 1
+TS=>SST
+ENDVARS
