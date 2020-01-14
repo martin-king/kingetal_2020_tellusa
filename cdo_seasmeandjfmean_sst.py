@@ -1,7 +1,7 @@
 import os,glob
-# for analysis to create fig. 4
-# go through all experiment members to create seasman and extract djfmean
-# then create grads ctl to read it (not strictly necessary)
+# for analysis to create fig. 4.
+# go through all experiment members to create seasman and extract djfmean.
+# then create grads ctl to read it.
 
 filelist = sorted(glob.glob("b.e11.BLMTRC5CN.f19_g16.???.cam.h0.TS.085001-200512.nc"))
 
