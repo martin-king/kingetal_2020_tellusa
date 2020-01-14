@@ -1,6 +1,6 @@
 function write
 
-* used in analyses for Figs. 4 and 5.
+* used in revision to reply reviewers.
 * calculate an enso index, select years and output to txt file.
 
 'reset'
