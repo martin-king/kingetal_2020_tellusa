@@ -1,6 +1,8 @@
 function xxx
 
-'reset
+* use for plotting Fig. 5.
+* example: xdfopen psl_djfmean_mildstrongnino34.ctl
+'reset'
 
 'set vpage 0. 11 0. 4'
 'set mpdraw on'
@@ -21,9 +23,9 @@ function xxx
 
 'run /Users/martin/mbp1rsync.dir/work_2016dec.dir/martinking_temporary.dir/Desktop/work_sep2016.dir/some_grads_scripts.dir/scripts/rgbset.gs'
 
-'pslave=ave(psl,t=1,t=93)'
-'variance=ave(pow(psl-pslave,2),t=1,t=93)'
-'tvalue=abs(pslave)/sqrt(variance/93)'
+'pslave=ave(psl,t=1,t=984)'
+'variance=ave(pow(psl-pslave,2),t=1,t=984)'
+'tvalue=abs(pslave)/sqrt(variance/984)'
 
 *'run /Users/martinpeterking/work_2016dec.dir/martinking_temporary.dir/Desktop/work_sep2016.dir/some_grads_scripts.dir/scripts/cbar.gs 1.1 1 9.2 3.5'
 * cbar.gs sf vert xmid ymid
