@@ -1,0 +1,9 @@
+* could be used but wasn't for Fig. 3a
+
+gridtype = lonlat
+xsize    = 360
+ysize    = 180
+xfirst   = -179.5
+xinc     = 1.0
+yfirst   = 89.5
+yinc     = -1.0
