@@ -1,7 +1,7 @@
 function xxx
 
 * used for Fig. 1
-* used with pdsisc_dai_jjamean_maps_1850_2014_fawc1_r2_5x2_5_ipe2.ctl
+* used with pdsisc_dai_jjamean_maps_1850_2014_fawc1_r2_5x2_5_ipe2.ctl, etc
 
 'reset'
 
