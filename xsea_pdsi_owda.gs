@@ -1,5 +1,7 @@
 function xsea
 
+* used for analysis required for Fig. 2
+
 'reset'
 'set x 1 34'
 'set y 1 27'
