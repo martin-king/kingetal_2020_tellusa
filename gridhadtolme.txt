@@ -1,3 +1,6 @@
+* used for Fig. 3a.
+* eg. cdo remapbil,gridhadtolme.txt TS_LME_djfmean_fullforcings_1899_2004.nc TS_LME_djfmean_fullforcings_1899_2004_remapbil_common.nc
+
 gridtype = lonlat
 xsize    = 144
 ysize    = 96
