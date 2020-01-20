@@ -1,5 +1,8 @@
 function xsea
 
+* used to create ienso_li_2dowda_jun_900_2002.grd
+* which is required for analysis for Fig. 2.
+
 'reset'
 
 'set x 1 114'
