@@ -1,5 +1,6 @@
 dset ienso_li_2dowda_jun_900_2002.grd
 title Li last millennium ENSO index
+* used for Fig. 2
 undef -9.99e+08
 xdef 114 linear -11.75 0.5
 ydef 88 linear  27.25 0.5
