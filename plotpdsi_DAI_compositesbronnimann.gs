@@ -1,5 +1,7 @@
 function xxx
 
+* used for Fig. 1
+
 'reset'
 
 'set vpage 0. 11 0. 7'
