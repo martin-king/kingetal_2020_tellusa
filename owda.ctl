@@ -1,0 +1,8 @@
+DSET owda.nc
+DTYPE netcdf
+XDEF lon 114 LINEAR -11.75 0.5
+YDEF lat 88  LINEAR 27.25 0.5
+TDEF time 2013 linear 1jun0000 1yr
+VARS 1
+pdsi=>pdsi 1 99 PDSI OWDA
+ENDVARS
